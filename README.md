@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 💬
 
-## 🔧 Technologies & Tools
-![js](https://badges.aleen42.com/src/javascript.svg)<br>
-![ts](https://badges.aleen42.com/src/typescript.svg)<br>
-
 ## The most used progamming languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holabee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -27,6 +23,19 @@ Here are some ideas to get you started:
 ## Activity Graph 
 -->
 
+## 🔧 Technologies & Tools
+![gulp](https://badges.aleen42.com/src/gulp.svg)
+![parcel](https://badges.aleen42.com/src/parcel.svg)
+![grunt](https://badges.aleen42.com/src/grunt.svg)
+![javascript](https://badges.aleen42.com/src/javascript.svg)
+![node](https://badges.aleen42.com/src/node.svg)
+![vue](https://badges.aleen42.com/src/vue.svg)
+![tailwindcss](https://badges.aleen42.com/src/tailwindcss.svg)
+![react](https://badges.aleen42.com/src/react.svg)
+![typescript](https://badges.aleen42.com/src/typescript.svg)
+![webpack](https://badges.aleen42.com/src/webpack.svg)
+![redux](https://badges.aleen42.com/src/redux.svg)
+![rxjs](https://badges.aleen42.com/src/reactivex.svg) ...
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=holabee&theme=xcode)](https://github.com/holabee/github-readme-activity-graph)
 
