@@ -2,6 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&size=16&duration=4700&color=555555&vCenter=true&width=431&height=21&lines=Almost+all+repositories+turn+over+to+private.)](https://git.io/typing-svg)
 
+```bash
+#HEX
+5374617274 6F6666 77697468 61 636C65616E 736C617465 
+```
+
 <!--
 **holabee/holabee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
