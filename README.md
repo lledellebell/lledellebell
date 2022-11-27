@@ -67,10 +67,11 @@ Here are some ideas to get you started:
 ![webpack](https://badges.aleen42.com/src/webpack.svg)
 ![redux](https://badges.aleen42.com/src/redux.svg)
 ![rxjs](https://badges.aleen42.com/src/reactivex.svg) ...
--->
-
 
 ## 📫 Channel
 [![](https://dcbadge.vercel.app/api/server/6DruCKHpW8?style=flat)](https://discord.gg/6DruCKHpW8)
+
+
+-->
 
 
