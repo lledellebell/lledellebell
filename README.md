@@ -1,6 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&size=16&duration=4700&color=555555&vCenter=true&width=689&height=21&lines=Almost+all+repositories+turn+over+to+private.)](https://git.io/typing-svg)[![visited](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fholabee&count_bg=%606BEA&title_bg=%23555555&icon=aiqfome.svg&icon_color=%23E7E7E7&title=Visited&edge_flat=false)](https://hits.seeyoufarm.com)
 
+😄 진행중: [pokemon](https://functionbee.github.io/pokemon/)
 
 <!--
 **holabee/holabee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
