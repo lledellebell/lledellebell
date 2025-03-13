@@ -1,8 +1,4 @@
 
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&size=16&duration=4700&color=555555&vCenter=true&width=689&height=21&lines=Almost+all+repositories+turn+over+to+private.)](https://git.io/typing-svg)
-
 [![visited](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fholabee&count_bg=%606BEA&title_bg=%23555555&icon=aiqfome.svg&icon_color=%23E7E7E7&title=Visited&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
@@ -33,8 +29,6 @@ Here are some ideas to get you started:
 ## 💬 The most used progamming languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holabee&langs_count=8)](https://github.com/holabee/github-readme-stats)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&size=16&duration=4700&color=555555&vCenter=true&width=431&height=21&lines=Almost+all+repositories+turn+over+to+private.)](https://git.io/typing-svg)
- 
 ```bash
 #HEX
 5374617274 6F6666 77697468 61 636C65616E 736C617465 
@@ -89,3 +83,13 @@ Here are some ideas to get you started:
 -->
 
 
+#### 🚧 2025 
+
+|  **프로젝트명**       | **링크**                                                | **시작일**  | **종료일** | **상태** | | 
+|:-------------------:|:-------------------------------------------------------:|:------------:|:------------------:|:----------------:| :----: |
+| 💰 **중도금 대출 계산기** | [🔗](https://lledellebell.github.io/loan-calculator/) | 2025-03-13 | -       | **진행 중**  | ![react](https://badges.aleen42.com/src/react.svg), ![typescript](https://badges.aleen42.com/src/typescript.svg), ![tailwindcss](https://badges.aleen42.com/src/tailwindcss.svg), ![vite](https://badges.aleen42.com/src/vitejs.svg) |
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&size=16&duration=4700&color=555555&vCenter=true&width=431&height=21&lines=Almost+all+repositories+turn+over+to+private.)](https://git.io/typing-svg)
+
+ 
