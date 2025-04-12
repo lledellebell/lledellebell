@@ -86,6 +86,7 @@ Here are some ideas to get you started:
 |  **프로젝트명**       | **링크**                                                | **시작일**  | **종료일** | **상태** | | 
 |:-------------------|:-------------------------------------------------------:|:------------:|:------------------:|:----------------:| :----: |
 | 💰 **중도금 대출 계산기** | [🔗](https://deep-loan.com/loan-calculator) | 2025-03-13 | 2025-03-19       | **완료**  | ![react](https://badges.aleen42.com/src/react.svg), ![typescript](https://badges.aleen42.com/src/typescript.svg), ![tailwindcss](https://badges.aleen42.com/src/tailwindcss.svg), ![vite](https://badges.aleen42.com/src/vitejs.svg) |
+| 🏠 **DanjiTalk** | [🔗](https://danji-talk-frontend.vercel.app/) | 2025-01-16 |     | **진행중**  |  |
 | ✏️ **GeekNews** | [🔗](https://www.deep-log.com/geeknews) | 2025-04-09 | 2025-04-10       | **진행중**  | - 추가 변경 예정 |
 
 
