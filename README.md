@@ -1,5 +1,9 @@
+<!--
 
-  
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flledellebell%2Flledellebell&labelColor=%23ffffff&countColor=%23555555&style=flat&labelStyle=none)
+
+-->
+
 <!--
 
 <div align="center" >
@@ -94,3 +98,6 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&size=16&duration=4700&color=555555&vCenter=true&width=431&height=21&lines=Almost+all+repositories+turn+over+to+private.)](https://git.io/typing-svg)
 
  
+<div align="right">
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Flledellebell%2Flledellebell"><img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Flledellebell%2Flledellebell&label=Daily&labelColor=%23ffffff&countColor=%23555555&style=flat&labelStyle=none" /></a>
+</div>
