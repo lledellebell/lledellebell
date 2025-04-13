@@ -99,5 +99,5 @@ Here are some ideas to get you started:
 
  
 <div align="right">
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Flledellebell%2Flledellebell"><img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Flledellebell%2Flledellebell&label=Daily&labelColor=%23ffffff&countColor=%23555555&style=flat&labelStyle=none" /></a>
+<img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Flledellebell%2Flledellebell&label=Daily&labelColor=%23ffffff&countColor=%23555555&style=flat&labelStyle=none" />
 </div>
