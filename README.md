@@ -84,14 +84,14 @@ Here are some ideas to get you started:
 |  **프로젝트명**       | **링크**                                                |
 |:-------------------|:-------------------------------------------------------: |
 | **중도금 대출 계산기** | [🔗](https://deep-loan.com/loan-calculator) |
-| **DanjiTalk** | [🔗](https://danji-talk-frontend.vercel.app/) |
-| **Jisin** | [🔗](https://jishin-monitor.vercel.app/) |
+
 
 -->
 
 
+#### 🚧 2025 rebuilding 
 
-#### 🚧 2025 rebuilding
+[code review monster 🔗](https://code-review-monster.vercel.app/)
 
 
 
