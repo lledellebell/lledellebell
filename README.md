@@ -20,42 +20,42 @@
 <div align="center">
   <h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="24"> TECH STACK</h2>
   
-  <details open>
+  <details>
     <summary><b>Languages & Core</b></summary>
     <img src="https://skillicons.dev/icons?i=js,ts,nodejs&theme=dark" />
   </details>
   
-  <details open>
+  <details>
     <summary><b>Frontend</b></summary>
     <img src="https://skillicons.dev/icons?i=html,css,react,vue,nextjs,tailwind,styledcomponents,redux,sass,less,bootstrap&theme=dark" />
   </details>
   
-  <details open>
+  <details>
     <summary><b>Build Tools & Package Managers</b></summary>
     <img src="https://skillicons.dev/icons?i=webpack,vite,babel,gulp,rollup,npm,pnpm&theme=dark" />
   </details>
   
-  <details open>
+  <details>
     <summary><b>Testing & Quality</b></summary>
     <img src="https://skillicons.dev/icons?i=jest,vitest&theme=dark" />
   </details>
   
-  <details open>
+  <details>
     <summary><b>Backend & Database</b></summary>
     <img src="https://skillicons.dev/icons?i=express,nginx,mongodb,postgres,mysql,redis&theme=dark" />
   </details>
   
-  <details open>
+  <details>
     <summary><b>DevOps & Cloud</b></summary>
     <img src="https://skillicons.dev/icons?i=docker,aws,googlecloud&theme=dark" />
   </details>
   
-  <details open>
+  <details>
     <summary><b>Design & Collaboration</b></summary>
     <img src="https://skillicons.dev/icons?i=figma,ai,ps,xd&theme=dark" />
   </details>
 
-  <details open>
+  <details>
     <summary><b>Version Control</b></summary>
     <img src="https://skillicons.dev/icons?i=git,github,bitbucket,gitlab&theme=dark" />
   </details>
@@ -109,10 +109,12 @@
 </div> -->
 
 <!-- Streak Stats Section -->
+<!-- 
 <div align="center">
   <h2>🔥 CONTRIBUTION STREAK</h2>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lledellebell&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
+ -->
 
 <!-- Current Focus Section -->
 <div align="center">
