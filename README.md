@@ -1,3 +1,7 @@
+
+<br>
+<br>
+
 <div align="center">
   <!-- GitHub Cat animation -->
   <p>
@@ -18,9 +22,28 @@
   </div>
 </div>
 
+<br>
+
 <!-- Title/Content layout using markdown table -->
 <div align="center">
   <table style="margin-top: 20px;margin-bottom: 20px;border: 1px solid #ccc;border-collapse: collapse;background-color: #f5f5f5;color: #333">
+   <tr>
+    <td width="30%" valign="top">
+      <strong align="right">PROJECTS</strong>
+    </td>
+    <td width="70%">
+      <div>
+      <a href="https://github.com/lledellebell/code-review-monster">
+      <img src="https://badgen.net/badge/Code%20Review%20Monster%20(Private)/TypeScript%20%7C%20Serverless%20%7C%20Google%20Gemini/blue?icon=github" />
+      </a>
+      </div>
+      <div style="margin-top: 8px;">
+      <a href="https://deep-loan.com/loan-calculator">
+      <img src="https://badgen.net/badge/Installment%20Loan%20Calculator%20(WIP)/Next.js%20%7C%20TypeScript%20%7C%20Tailwind/orange?icon=github" />
+      </a>
+      </div>
+    </td>
+  </tr>
   <tr>
     <td width="30%" valign="top">
       <strong align="right"> TECH STACK</strong>
@@ -65,24 +88,6 @@
   <summary><b>Version Control</b></summary>
   <img src="https://skillicons.dev/icons?i=git,github,bitbucket,gitlab&theme=dark" />
   </details>
-    </td>
-  </tr>
-  <tr>
-    <td width="30%" valign="top">
-      <strong align="right">PROJECTS</strong>
-    </td>
-    <td width="70%">
-  <div>
-  <a href="https://github.com/lledellebell/code-review-monster">
-  <img src="https://badgen.net/badge/Code%20Review%20Monster%20(Private)/TypeScript%20%7C%20Serverless%20%7C%20Google%20Gemini/blue?icon=github" />
-  </a>
-  </div>
-
-  <div style="margin-top: 8px;">
-  <a href="https://deep-loan.com/loan-calculator">
-  <img src="https://badgen.net/badge/Installment%20Loan%20Calculator%20(WIP)/Next.js%20%7C%20TypeScript%20%7C%20Tailwind/orange?icon=github" />
-  </a>
-  </div>
     </td>
   </tr>
   <tr>
