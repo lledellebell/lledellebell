@@ -1,6 +1,18 @@
+<!-- Current Focus Section -->
+<!-- <div align="center">
+  <img src="https://badgen.net/badge/AI%20Integration/LLM%20APIs%20%26%20Vector%20DBs/black" />
+  <img src="https://badgen.net/badge/Performance/Core%20Web%20Vitals%20%26%20Optimization/black" />
+  <img src="https://badgen.net/badge/Architecture/Micro-Frontends%20%26%20Module%20Federation/black" />
+</div> -->
+
 <div align="center">
-  <!-- Wave-style header with dark gradient effect -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:000000&height=200&section=header&text=deep&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <!-- Wave-style header
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:000000&height=150&section=header&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" /> -->
+  
+  <!-- GitHub Octocat animation -->
+  <div style="margin-top: 20px;margin-bottom: 20px;">
+    <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" style="border-radius: 10px;" />
+  </div>
 
   <!-- Developer info badges -->
   <div>
@@ -9,12 +21,14 @@
     <img src="https://badgen.net/badge/interests/UI%2C%20UX%2C%20Performance/yellow" />
   </div>
 </div>
+
 <!-- Contact info -->
 <div align="center">
   <!-- <img src="https://badgen.net/badge/email/contact@example.com/cyan" /> -->
   <img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Flledellebell%2Flledellebell&label=Today&labelColor=%23000000&countColor=%23555555&style=flat&labelStyle=none" />
   <img src="https://badgen.net/badge/Profile%20Views/1.2k+/black" />
 </div>
+
 
 <!-- Tech stack section with skillicons -->
 <div align="center">
@@ -116,14 +130,5 @@
 </div>
  -->
 
-<!-- Current Focus Section -->
-<div align="center">
-  <h2>🔍 CURRENT FOCUS</h2>
-  <img src="https://badgen.net/badge/AI%20Integration/LLM%20APIs%20%26%20Vector%20DBs/black" />
-  <img src="https://badgen.net/badge/Performance/Core%20Web%20Vitals%20%26%20Optimization/black" />
-  <img src="https://badgen.net/badge/Architecture/Micro-Frontends%20%26%20Module%20Federation/black" />
-  <img src="https://badgen.net/badge/UX/UI%20Design%20%26%20Experience/black" />
-</div>
-
 <!-- Wave-style footer to match header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:000000&height=120&section=footer&animation=fadeIn" />
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:000000&height=120&section=footer&animation=fadeIn" /> -->
