@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Terminal-style header with glitch effect -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=000000&height=200&section=header&text=deep&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&descAlignY=55&descSize=20&rotate=13&stroke=888888" />
+  <!-- Wave-style header with dark gradient effect -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:000000&height=200&section=header&text=deep&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
   <!-- Developer info badges -->
   <div>
@@ -119,11 +119,11 @@
 <!-- Current Focus Section -->
 <div align="center">
   <h2>🔍 CURRENT FOCUS</h2>
-  <img src="https://badgen.net/badge/AI%20Integration/LLM%20APIs%20%26%20Vector%20DBs/purple" />
+  <img src="https://badgen.net/badge/AI%20Integration/LLM%20APIs%20%26%20Vector%20DBs/black" />
   <img src="https://badgen.net/badge/Performance/Core%20Web%20Vitals%20%26%20Optimization/black" />
   <img src="https://badgen.net/badge/Architecture/Micro-Frontends%20%26%20Module%20Federation/black" />
   <img src="https://badgen.net/badge/UX/UI%20Design%20%26%20Experience/black" />
 </div>
 
-<!-- Terminal-style footer to match header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=000000&height=120&section=footer&animation=twinkling&stroke=888888" />
+<!-- Wave-style footer to match header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:000000&height=120&section=footer&animation=fadeIn" />
