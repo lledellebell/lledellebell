@@ -1,7 +1,7 @@
 <div align="center">
   <!-- GitHub Cat animation -->
   <p>
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjF6YXFmYXBzcXplYjJqNTUyMnU5ZWU2cTVsYm14ZHYzMHZvYTVqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xEynp8JtHa05sA/giphy.gif" width="100%" height="100%"> 
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cXo2OTYzczN3c3ZrMDNyZnd3amVuMTM5N3FsOGZmcWl2bXhoaDdociZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/RYYcIqEj5pR2Ro8luH/giphy.gif" width="150"> 
   </p>
 
   <!-- Developer info badges -->
