@@ -29,7 +29,7 @@
   <table style="margin-top: 20px;margin-bottom: 20px;border: 1px solid #ccc;border-collapse: collapse;background-color: #f5f5f5;color: #333">
    <tr>
     <td width="30%" valign="top">
-      <strong align="right">PROJECTS</strong>
+      <strong align="right">25 PROJECTS</strong>
     </td>
     <td width="70%">
       <div>
