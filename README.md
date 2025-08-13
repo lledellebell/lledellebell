@@ -1,7 +1,7 @@
 <div align="center">
   <!-- GitHub Cat animation -->
   <p>
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmlhbXh3dWpkaXRzMHdsZXZjN3N4cXpxdWUwM2I3ZG5rbmxrZmQ3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JDPk6orkR7D7LcXmMK/giphy.gif" width="100"> 
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjF6YXFmYXBzcXplYjJqNTUyMnU5ZWU2cTVsYm14ZHYzMHZvYTVqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xEynp8JtHa05sA/giphy.gif" width="100%" height="100%"> 
   </p>
 
   <!-- Developer info badges -->
@@ -19,85 +19,87 @@
 </div>
 
 <!-- Title/Content layout using markdown table -->
-<table style="margin-top: 20px;margin-bottom: 20px;border: 1px solid #ccc;border-collapse: collapse;background-color: #f5f5f5;color: #333">
-<tr>
-  <td width="30%" valign="top">
-    <strong align="right"> TECH STACK</strong>
-  </td>
-  <td width="70%">
-<details>
-<summary><b>Languages & Core</b></summary>
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs&theme=dark" />
-</details>
+<div align="center">
+  <table style="margin-top: 20px;margin-bottom: 20px;border: 1px solid #ccc;border-collapse: collapse;background-color: #f5f5f5;color: #333">
+  <tr>
+    <td width="30%" valign="top">
+      <strong align="right"> TECH STACK</strong>
+    </td>
+    <td width="70%">
+  <details>
+  <summary><b>Languages & Core</b></summary>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs&theme=dark" />
+  </details>
 
-<details>
-<summary><b>Frontend</b></summary>
-<img src="https://skillicons.dev/icons?i=html,css,react,vue,nextjs,tailwind,styledcomponents,redux,sass,less,bootstrap&theme=dark" />
-</details>
+  <details>
+  <summary><b>Frontend</b></summary>
+  <img src="https://skillicons.dev/icons?i=html,css,react,vue,nextjs,tailwind,styledcomponents,redux,sass,less,bootstrap&theme=dark" />
+  </details>
 
-<details>
-<summary><b>Build Tools & Package Managers</b></summary>
-<img src="https://skillicons.dev/icons?i=webpack,vite,babel,gulp,rollup,npm,pnpm&theme=dark" />
-</details>
+  <details>
+  <summary><b>Build Tools & Package Managers</b></summary>
+  <img src="https://skillicons.dev/icons?i=webpack,vite,babel,gulp,rollup,npm,pnpm&theme=dark" />
+  </details>
 
-<details>
-<summary><b>Testing & Quality</b></summary>
-<img src="https://skillicons.dev/icons?i=jest,vitest&theme=dark" />
-</details>
+  <details>
+  <summary><b>Testing & Quality</b></summary>
+  <img src="https://skillicons.dev/icons?i=jest,vitest&theme=dark" />
+  </details>
 
-<details>
-<summary><b>Backend & Database</b></summary>
-<img src="https://skillicons.dev/icons?i=express,nginx,mongodb,postgres,mysql,redis&theme=dark" />
-</details>
+  <details>
+  <summary><b>Backend & Database</b></summary>
+  <img src="https://skillicons.dev/icons?i=express,nginx,mongodb,postgres,mysql,redis&theme=dark" />
+  </details>
 
-<details>
-<summary><b>DevOps & Cloud</b></summary>
-<img src="https://skillicons.dev/icons?i=docker,aws,googlecloud&theme=dark" />
-</details>
+  <details>
+  <summary><b>DevOps & Cloud</b></summary>
+  <img src="https://skillicons.dev/icons?i=docker,aws,googlecloud&theme=dark" />
+  </details>
 
-<details>
-<summary><b>Design & Collaboration</b></summary>
-<img src="https://skillicons.dev/icons?i=figma,ai,ps,xd&theme=dark" />
-</details>
+  <details>
+  <summary><b>Design & Collaboration</b></summary>
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps,xd&theme=dark" />
+  </details>
 
-<details>
-<summary><b>Version Control</b></summary>
-<img src="https://skillicons.dev/icons?i=git,github,bitbucket,gitlab&theme=dark" />
-</details>
-  </td>
-</tr>
-<tr>
-  <td width="30%" valign="top">
-    <strong align="right">PROJECTS</strong>
-  </td>
-  <td width="70%">
-<div>
-<a href="https://github.com/lledellebell/code-review-monster">
-<img src="https://badgen.net/badge/Code%20Review%20Monster%20(Private)/TypeScript%20%7C%20Serverless%20%7C%20Google%20Gemini/blue?icon=github" />
-</a>
+  <details>
+  <summary><b>Version Control</b></summary>
+  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,gitlab&theme=dark" />
+  </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top">
+      <strong align="right">PROJECTS</strong>
+    </td>
+    <td width="70%">
+  <div>
+  <a href="https://github.com/lledellebell/code-review-monster">
+  <img src="https://badgen.net/badge/Code%20Review%20Monster%20(Private)/TypeScript%20%7C%20Serverless%20%7C%20Google%20Gemini/blue?icon=github" />
+  </a>
+  </div>
+
+  <div style="margin-top: 8px;">
+  <a href="https://deep-loan.com/loan-calculator">
+  <img src="https://badgen.net/badge/Installment%20Loan%20Calculator%20(WIP)/Next.js%20%7C%20TypeScript%20%7C%20Tailwind/orange?icon=github" />
+  </a>
+  </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top">
+      <strong align="right">CURRENT FOCUS</strong>
+    </td>
+    <td width="70%">
+  <div>
+  <img src="https://badgen.net/badge/AI%20Integration/LLM%20APIs%20%26%20Vector%20DBs/black" />
+  <img src="https://badgen.net/badge/Performance/Core%20Web%20Vitals/black" />
+  <img src="https://badgen.net/badge/Architecture/Micro-Frontends/black" />
+  </div>
+    </td>
+  </tr>
+  </table>
+
 </div>
-
-<div style="margin-top: 8px;">
-<a href="https://deep-loan.com/loan-calculator">
-<img src="https://badgen.net/badge/Installment%20Loan%20Calculator%20(WIP)/Next.js%20%7C%20TypeScript%20%7C%20Tailwind/orange?icon=github" />
-</a>
-</div>
-  </td>
-</tr>
-<tr>
-  <td width="30%" valign="top">
-    <strong align="right">CURRENT FOCUS</strong>
-  </td>
-  <td width="70%">
-<div>
-<img src="https://badgen.net/badge/AI%20Integration/LLM%20APIs%20%26%20Vector%20DBs/black" />
-<img src="https://badgen.net/badge/Performance/Core%20Web%20Vitals/black" />
-<img src="https://badgen.net/badge/Architecture/Micro-Frontends/black" />
-</div>
-  </td>
-</tr>
-</table>
-
 <!-- Recent Activity Section -->
 <!-- <div align="center">
   <h2><img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="25"> RECENT ACTIVITY</h2> -->
