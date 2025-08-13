@@ -1,103 +1,127 @@
-<!--
+<div align="center">
+  <!-- Terminal-style header with glitch effect -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=000000&height=200&section=header&text=deep&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&descAlignY=55&descSize=20&rotate=13&stroke=888888" />
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flledellebell%2Flledellebell&labelColor=%23ffffff&countColor=%23555555&style=flat&labelStyle=none)
-
--->
-
-<!--
-
-<div align="center" >
-  <img
-    src="https://render.gitanimals.org/lines/lledellebell?pet-id=654617190172588428"
-    width="600"
-    height="120"
-  />
+  <!-- Developer info badges -->
+  <div>
+    <img src="https://badgen.net/badge/focus/Frontend%20Development%20%7C%20AI/red" />
+    <img src="https://badgen.net/badge/location/South%20Korea/black" />
+    <img src="https://badgen.net/badge/interests/UI%2C%20UX%2C%20Performance/yellow" />
+  </div>
+</div>
+<!-- Contact info -->
+<div align="center">
+  <!-- <img src="https://badgen.net/badge/email/contact@example.com/cyan" /> -->
+  <img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Flledellebell%2Flledellebell&label=Today&labelColor=%23000000&countColor=%23555555&style=flat&labelStyle=none" />
+  <img src="https://badgen.net/badge/Profile%20Views/1.2k+/black" />
 </div>
 
-**holabee/holabee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Tech stack section with skillicons -->
+<div align="center">
+  <h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="24"> TECH STACK</h2>
+  
+  <details open>
+    <summary><b>Languages & Core</b></summary>
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs&theme=dark" />
+  </details>
+  
+  <details open>
+    <summary><b>Frontend</b></summary>
+    <img src="https://skillicons.dev/icons?i=html,css,react,vue,nextjs,tailwind,styledcomponents,redux,sass,less,bootstrap&theme=dark" />
+  </details>
+  
+  <details open>
+    <summary><b>Build Tools & Package Managers</b></summary>
+    <img src="https://skillicons.dev/icons?i=webpack,vite,babel,gulp,rollup,npm,pnpm&theme=dark" />
+  </details>
+  
+  <details open>
+    <summary><b>Testing & Quality</b></summary>
+    <img src="https://skillicons.dev/icons?i=jest,vitest&theme=dark" />
+  </details>
+  
+  <details open>
+    <summary><b>Backend & Database</b></summary>
+    <img src="https://skillicons.dev/icons?i=express,nginx,mongodb,postgres,mysql,redis&theme=dark" />
+  </details>
+  
+  <details open>
+    <summary><b>DevOps & Cloud</b></summary>
+    <img src="https://skillicons.dev/icons?i=docker,aws,googlecloud&theme=dark" />
+  </details>
+  
+  <details open>
+    <summary><b>Design & Collaboration</b></summary>
+    <img src="https://skillicons.dev/icons?i=figma,ai,ps,xd&theme=dark" />
+  </details>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 💬
-
-## 💬 The most used progamming languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holabee&langs_count=8)](https://github.com/holabee/github-readme-stats)
-
-```bash
-#HEX
-5374617274 6F6666 77697468 61 636C65616E 736C617465 
-```
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=holabee&theme=xcode)](https://github.com/holabee/github-readme-activity-graph)
-
-## The most used progamming languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holabee&langs_count=8)](https://github.com/holabee/github-readme-stats)
-
-## Activity Graph 
-
-## 🔧 Technologies & Tools
-![gulp](https://badges.aleen42.com/src/gulp.svg)
-![parcel](https://badges.aleen42.com/src/parcel.svg)
-![grunt](https://badges.aleen42.com/src/grunt.svg)
-![javascript](https://badges.aleen42.com/src/javascript.svg)
-![node](https://badges.aleen42.com/src/node.svg)
-![vue](https://badges.aleen42.com/src/vue.svg)
-![tailwindcss](https://badges.aleen42.com/src/tailwindcss.svg)
-![react](https://badges.aleen42.com/src/react.svg)
-![typescript](https://badges.aleen42.com/src/typescript.svg)
-![webpack](https://badges.aleen42.com/src/webpack.svg)
-![redux](https://badges.aleen42.com/src/redux.svg)
-![rxjs](https://badges.aleen42.com/src/reactivex.svg) ...
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=holabee&theme=xcode)](https://github.com/holabee/github-readme-activity-graph)
-
-[![visited](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fholabee&count_bg=%23B30303&title_bg=%23555555&icon=aiqfome.svg&icon_color=%23E7E7E7&title=Visited&edge_flat=false)](https://hits.seeyoufarm.com) <br>
-
-## 🌱 Activity
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=holabee&theme=xcode)](https://github.com/holabee/github-readme-activity-graph)
-
-## 🔧 Technologies & Tools
-![gulp](https://badges.aleen42.com/src/gulp.svg)
-![parcel](https://badges.aleen42.com/src/parcel.svg)
-![grunt](https://badges.aleen42.com/src/grunt.svg)
-![javascript](https://badges.aleen42.com/src/javascript.svg)
-![node](https://badges.aleen42.com/src/node.svg)
-![vue](https://badges.aleen42.com/src/vue.svg)
-![tailwindcss](https://badges.aleen42.com/src/tailwindcss.svg)
-![react](https://badges.aleen42.com/src/react.svg)
-![typescript](https://badges.aleen42.com/src/typescript.svg)
-![webpack](https://badges.aleen42.com/src/webpack.svg)
-![redux](https://badges.aleen42.com/src/redux.svg)
-![rxjs](https://badges.aleen42.com/src/reactivex.svg) ...
-
-## 📫 Channel
-[![](https://dcbadge.vercel.app/api/server/6DruCKHpW8?style=flat)](https://discord.gg/6DruCKHpW8)
-
-
-|  **프로젝트명**       | **링크**                                                |
-|:-------------------|:-------------------------------------------------------: |
-| **중도금 대출 계산기** | [🔗](https://deep-loan.com/loan-calculator) |
-
-
--->
-
-
-#### 🚧 2025 rebuilding 
-
-[(private) code review monster 🔗](https://code-review-monster.vercel.app/)
-
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&size=16&duration=4700&color=555555&vCenter=true&width=431&height=21&lines=Almost+all+repositories+turn+over+to+private.)](https://git.io/typing-svg)
-
- 
-<div align="right">
-<img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Flledellebell%2Flledellebell&label=Daily&labelColor=%23ffffff&countColor=%23555555&style=flat&labelStyle=none" />
+  <details open>
+    <summary><b>Version Control</b></summary>
+    <img src="https://skillicons.dev/icons?i=git,github,bitbucket,gitlab&theme=dark" />
+  </details>
+  
 </div>
+
+
+<!-- Projects section with badgen style -->
+<div align="center">
+  <h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 25 PROJECTS</h2>
+  <!-- <img src="https://badgen.net/badge/category/Web%20Applications/purple" />
+  <img src="https://badgen.net/badge/status/Production/green" />
+  <br/>
+  <div style="margin-top: 10px;">
+    <img src="https://badgen.net/badge/code/Clean%20Architecture/blue" />
+    <img src="https://badgen.net/badge/testing/TDD%20%26%20E2E/green" />
+    <img src="https://badgen.net/badge/style/Component%20Driven/purple" />
+    <img src="https://badgen.net/badge/UX/Accessibility%20First/orange" />
+  </div> -->
+</div>
+
+<!-- Simple project list -->
+<div align="center">
+  <div>
+    <a href="https://github.com/lledellebell/code-review-monster" style="text-decoration: none;">
+      <img src="https://badgen.net/badge/Code%20Review%20Monster%20(Private)/TypeScript%20%7C%20Serverless%20%7C%20Google%20Gemini/blue?icon=github" />
+    </a>
+  </div>
+  <div style="margin-top: 8px;">
+    <a href="https://deep-loan.com/loan-calculator" style="text-decoration: none;">
+      <img src="https://badgen.net/badge/Installment%20Loan%20Calculator%20(WIP)/Next.js%20%7C%20TypeScript%20%7C%20Tailwind/orange?icon=github" />
+    </a>
+  </div>
+</div>
+
+<!-- Recent Activity Section -->
+<!-- <div align="center">
+  <h2><img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="25"> RECENT ACTIVITY</h2> -->
+  
+  <!--RECENT_ACTIVITY:start-->
+  <!-- ⭐ Starred [organization/repo-name](https://github.com/organization/repo-name)
+  🔱 Forked [organization/another-repo](https://github.com/organization/another-repo)
+  🗣 Commented on [#123](https://github.com/organization/repo/issues/123) in [organization/repo](https://github.com/organization/repo)
+  🎉 Merged PR [#456](https://github.com/organization/repo/pull/456) in [organization/repo](https://github.com/organization/repo)
+  👀 Watched [organization/interesting-project](https://github.com/organization/interesting-project) -->
+  <!--RECENT_ACTIVITY:end-->
+  
+  <!-- <div align="center">
+    <img src="https://badgen.net/badge/Last%20Updated/Daily%20by%20GitHub%20Action/cyan" />
+  </div>
+</div> -->
+
+<!-- Streak Stats Section -->
+<div align="center">
+  <h2>🔥 CONTRIBUTION STREAK</h2>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lledellebell&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<!-- Current Focus Section -->
+<div align="center">
+  <h2>🔍 CURRENT FOCUS</h2>
+  <img src="https://badgen.net/badge/AI%20Integration/LLM%20APIs%20%26%20Vector%20DBs/purple" />
+  <img src="https://badgen.net/badge/Performance/Core%20Web%20Vitals%20%26%20Optimization/black" />
+  <img src="https://badgen.net/badge/Architecture/Micro-Frontends%20%26%20Module%20Federation/black" />
+  <img src="https://badgen.net/badge/UX/UI%20Design%20%26%20Experience/black" />
+</div>
+
+<!-- Terminal-style footer to match header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=000000&height=120&section=footer&animation=twinkling&stroke=888888" />
