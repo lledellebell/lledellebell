@@ -99,6 +99,7 @@
   <img src="https://badgen.net/badge/AI%20Integration/LLM%20APIs%20%26%20Vector%20DBs/black" />
   <img src="https://badgen.net/badge/Performance/Core%20Web%20Vitals/black" />
   <img src="https://badgen.net/badge/Architecture/Micro-Frontends/black" />
+  <img src="https://badgen.net/badge/Lib/infinite-text-scroller/black" />
   </div>
     </td>
   </tr>
