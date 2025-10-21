@@ -33,6 +33,10 @@
     </td>
     <td width="70%">
       <div>
+      <a href="https://deep-log.com">
+      <img src="https://badgen.net/badge/Blog%20(Private)/Liquid%20%7C%20JavaScript%20%7C%20Ruby%20%7C%20MCP%20Server/green?icon=github" />
+      </a>
+      <div style="margin-top: 8px;">
       <a href="https://github.com/lledellebell/code-review-monster">
       <img src="https://badgen.net/badge/Code%20Review%20Monster%20(Private)/TypeScript%20%7C%20Serverless%20%7C%20Google%20Gemini/blue?icon=github" />
       </a>
