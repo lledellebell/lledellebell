@@ -12,7 +12,7 @@
   <div>
     <img src="https://badgen.net/badge/focus/Frontend%20Development%20%7C%20AI/red" />
     <img src="https://badgen.net/badge/location/South%20Korea/black" />
-    <img src="https://badgen.net/badge/interests/UI%2C%20UX%2C%20Performance/yellow" />
+    <img src="https://badgen.net/badge/interests/UI%2C%20UX%2C%20Performance/pink" />
   </div>
   
   <!-- Contact info -->
@@ -34,16 +34,21 @@
     <td width="70%">
       <div>
       <a href="https://deep-log.com">
-      <img src="https://badgen.net/badge/Blog%20(Private)/Liquid%20%7C%20JavaScript%20%7C%20Ruby%20%7C%20MCP%20Server/green?icon=github" />
+      <img src="https://badgen.net/badge/Blog%20(Private)/Liquid%20%7C%20JavaScript%20%7C%20Ruby%20%7C%20MCP%20Server/blue?icon=github" />
       </a>
       <div style="margin-top: 8px;">
       <a href="https://github.com/lledellebell/code-review-monster">
-      <img src="https://badgen.net/badge/Code%20Review%20Monster%20(Private)/TypeScript%20%7C%20Serverless%20%7C%20Google%20Gemini/blue?icon=github" />
+      <img src="https://badgen.net/badge/Code%20Review%20Monster%20(Private)/TypeScript%20%7C%20Serverless%20%7C%20Google%20Gemini/cyan?icon=github" />
       </a>
       </div>
       <div style="margin-top: 8px;">
       <a href="https://deep-loan.com/loan-calculator">
-      <img src="https://badgen.net/badge/Installment%20Loan%20Calculator%20(WIP)/Next.js%20%7C%20TypeScript%20%7C%20Tailwind/orange?icon=github" />
+      <img src="https://badgen.net/badge/Installment%20Loan%20Calculator%20(WIP)/Next.js%20%7C%20TypeScript%20%7C%20Tailwind/green?icon=github" />
+      </a>
+      </div>
+      <div style="margin-top: 8px;">
+      <a href="https://codepen.io/deep-tsuki/pens/popular?cursor=ZD0xJm89MCZwPTEmdj0w">
+      <img src="https://badgen.net/badge/CodePen/HTML%20%7C%20Vanilla%20JavaScript%20%7C%20CSS/yellow?icon=github" />
       </a>
       </div>
     </td>
