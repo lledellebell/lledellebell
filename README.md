@@ -47,7 +47,7 @@
       </a>
       </div>
       <div style="margin-top: 8px;">
-      <a href="https://codepen.io/deep-tsuki/pens/popular?cursor=ZD0xJm89MCZwPTEmdj0w">
+      <a href="https://codepen.io/deep-tsuki/pens/popular">
       <img src="https://badgen.net/badge/CodePen/HTML%20%7C%20Vanilla%20JavaScript%20%7C%20CSS/yellow?icon=github" />
       </a>
       </div>
