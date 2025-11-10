@@ -12,7 +12,7 @@
   <div>
     <img src="https://badgen.net/badge/focus/Frontend%20Development%20%7C%20AI/red" />
     <img src="https://badgen.net/badge/location/South%20Korea/black" />
-    <img src="https://badgen.net/badge/interests/UI%2C%20UX%2C%20Performance/pink" />
+    <img src="https://badgen.net/badge/interests/UI%2C%20UX%2C%20Performance/orange" />
   </div>
   
   <!-- Contact info -->
@@ -33,9 +33,15 @@
     </td>
     <td width="70%">
       <div>
+      <a href="https://lledellebell.github.io/peek-carousel/examples/example-built.html">
+      <img src="https://badgen.net/badge/Peek%20Carousel%20(Private)/JavaScript%20%7C%20SCSS/purple?icon=github" />
+      </a>
+      </div>
+      <div style="margin-top: 8px;">
       <a href="https://deep-log.com">
       <img src="https://badgen.net/badge/Blog%20(Private)/Liquid%20%7C%20JavaScript%20%7C%20Ruby%20%7C%20MCP%20Server/blue?icon=github" />
       </a>
+      </div>
       <div style="margin-top: 8px;">
       <a href="https://github.com/lledellebell/code-review-monster">
       <img src="https://badgen.net/badge/Code%20Review%20Monster%20(Private)/TypeScript%20%7C%20Serverless%20%7C%20Google%20Gemini/cyan?icon=github" />
