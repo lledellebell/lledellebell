@@ -39,7 +39,7 @@
       </div>
       <div style="margin-top: 8px;">
       <a href="https://deep-log.com">
-      <img src="https://badgen.net/badge/Blog%20(Private)/Liquid%20%7C%20JavaScript%20%7C%20Ruby%20%7C%20MCP%20Server/blue?icon=github" />
+      <img src="https://badgen.net/badge/Blog%20(Private)/React%20%7C%20TypeScript%20%7C%20TailwindCSS%20%7C%20Supabase/blue?icon=github" />
       </a>
       </div>
       <div style="margin-top: 8px;">
