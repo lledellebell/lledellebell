@@ -34,7 +34,7 @@
     <td width="70%">
       <div>
       <a href="https://lledellebell.github.io/peek-carousel/examples/example-built.html">
-      <img src="https://badgen.net/badge/Peek%20Carousel%20(Private)/JavaScript%20%7C%20SCSS/purple?icon=github" />
+      <img src="https://badgen.net/badge/Peek%20Carousel/JavaScript%20%7C%20SCSS/purple?icon=github" />
       </a>
       </div>
       <div style="margin-top: 8px;">
@@ -48,8 +48,8 @@
       </a>
       </div>
       <div style="margin-top: 8px;">
-      <a href="https://deep-loan.com/loan-calculator">
-      <img src="https://badgen.net/badge/Installment%20Loan%20Calculator%20(WIP)/Next.js%20%7C%20TypeScript%20%7C%20Tailwind/green?icon=github" />
+      <a href="https://www.deep-log.com/showcase/loan-calculator">
+      <img src="https://badgen.net/badge/Installment%20Loan%20Calculator%20(WIP)/React%20%7C%20TypeScript%20%7C%20Tailwind/green?icon=github" />
       </a>
       </div>
       <div style="margin-top: 8px;">
