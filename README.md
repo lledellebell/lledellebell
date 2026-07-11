@@ -121,6 +121,15 @@
   </table>
 
 </div>
+
+<h2 align="center">Latest Writing</h2>
+<p align="center"><sub>from <a href="https://www.deep-log.com">deep·log</a> — auto-updated on each publish</sub></p>
+
+<!-- LATEST:START -->
+- [배포해도 안 바뀌는 UI: React Router loader 데이터가 stale 캐시에 갇힌 이유](https://www.deep-log.com/development/web/react/troubleshooting/react-router-stale-loader-cache) — `React` · 07.11
+- [Microsoft Clarity로 사용자 행동 분석 붙이기 — 도구 비교부터 동의 게이팅까지](https://www.deep-log.com/development/web/tools/microsoft-clarity-analytics) — `Tools` · 07.10
+<!-- LATEST:END -->
+
 <!-- Recent Activity Section -->
 <!-- <div align="center">
   <h2><img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="25"> RECENT ACTIVITY</h2> -->
