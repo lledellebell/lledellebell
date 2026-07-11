@@ -28,8 +28,11 @@
 <p align="center"><sub>from <a href="https://www.deep-log.com">deep·log</a> — auto-updated on each publish</sub></p>
 
 <!-- LATEST:START -->
-- [배포해도 안 바뀌는 UI: React Router loader 데이터가 stale 캐시에 갇힌 이유](https://www.deep-log.com/development/web/react/troubleshooting/react-router-stale-loader-cache) — `React` · 07.11
-- [Microsoft Clarity로 사용자 행동 분석 붙이기 — 도구 비교부터 동의 게이팅까지](https://www.deep-log.com/development/web/tools/microsoft-clarity-analytics) — `Tools` · 07.10
+- [정적인 프로필 README가 스스로 갱신되는 이유 — 크로스 레포 GitHub Actions로 최신 글 밀어넣기](https://www.deep-log.com/development/devops/github-actions-profile-readme-automation) — `DevOps` · 07.11
+- [초록 다음이 진짜다 — CI에서 CD로, GitLab·Jenkins를 잇고 배포 알림을 Teams로](https://www.deep-log.com/development/devops/what-is-cd-gitlab-jenkins-teams) — `DevOps` · 07.11
+- [합치기를 미룰수록 합치기 어려워진다 — CI(지속적 통합) 입문](https://www.deep-log.com/development/devops/what-is-ci-continuous-integration) — `Best Practices` · 07.11
+- ["A가 B를 부른다"는 문장이 놓치는 것 — 시퀀스 다이어그램 읽는 법](https://www.deep-log.com/development/practices/what-is-sequence-diagram) — `Best Practices` · 07.11
+- [캐시는 속도를 위해 켜지만, 틀린 화면을 만드는 것도 캐시다 — stale 캐시와 무효화](https://www.deep-log.com/development/web/performance/cache-staleness-and-invalidation) — `Best Practices` · 07.11
 <!-- LATEST:END -->
 
 <br>
