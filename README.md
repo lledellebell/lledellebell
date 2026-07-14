@@ -28,11 +28,11 @@
 <p align="center"><sub>from <a href="https://www.deep-log.com">deep·log</a> — auto-updated on each publish</sub></p>
 
 <!-- LATEST:START -->
+- [고정 폭에서 사파리와 크롬의 줄바꿈이 갈릴 때 — 소수 폭과 픽셀 스냅](https://www.deep-log.com/development/web/css/layout/safari-subpixel-line-break-bold-punctuation) — `CSS` · 07.14
 - [하루 네 번 돌리려다 배포가 막혔다 — Vercel Hobby 크론의 하루 1회 제한](https://www.deep-log.com/development/devops/vercel-hobby-cron-limit-deploy-failure) — `DevOps` · 07.12
 - [아무도 안 눌렀는데 새벽에 돌아간다 — cron과 예약 작업 입문](https://www.deep-log.com/development/devops/what-is-cron-job) — `Best Practices` · 07.12
 - [정적인 프로필 README가 스스로 갱신되는 이유 — 크로스 레포 GitHub Actions로 최신 글 밀어넣기](https://www.deep-log.com/development/devops/github-actions-profile-readme-automation) — `DevOps` · 07.11
 - [초록 다음이 진짜다 — CI에서 CD로, GitLab·Jenkins를 잇고 배포 알림을 Teams로](https://www.deep-log.com/development/devops/what-is-cd-gitlab-jenkins-teams) — `DevOps` · 07.11
-- [합치기를 미룰수록 합치기 어려워진다 — CI(지속적 통합) 입문](https://www.deep-log.com/development/devops/what-is-ci-continuous-integration) — `Best Practices` · 07.11
 <!-- LATEST:END -->
 
 <br>
