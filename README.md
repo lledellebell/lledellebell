@@ -28,11 +28,11 @@
 <p align="center"><sub>from <a href="https://www.deep-log.com">deep·log</a> — auto-updated on each publish</sub></p>
 
 <!-- LATEST:START -->
-- [SVG 필터가 확대에서 깨져 rough.js로 바꿉니다](https://www.deep-log.com/development/web/css/visual/hand-drawn-svg-diagrams-rough-js) — `CSS` · 07.16
-- [CSP 입문 — 허용 목록으로 XSS를 막는 응답 헤더](https://www.deep-log.com/development/web/security/csp-basics-best-practices) — `Security` · 07.16
-- [로컬은 되는데 운영만 유튜브 임베드가 깨지는 이유](https://www.deep-log.com/development/web/security/csp-youtube-nocookie-frame-src) — `Security` · 07.16
-- [고정 폭에서 사파리와 크롬의 줄바꿈이 갈릴 때 — 소수 폭과 픽셀 스냅](https://www.deep-log.com/development/web/css/layout/safari-subpixel-line-break-bold-punctuation) — `CSS` · 07.14
-- [하루 네 번 돌리려다 배포가 막혔다 — Vercel Hobby 크론의 하루 1회 제한](https://www.deep-log.com/development/devops/vercel-hobby-cron-limit-deploy-failure) — `DevOps` · 07.12
+- [TLS 입문 — HTTPS의 자물쇠는 무엇을 지키나](https://www.deep-log.com/development/web/security/what-is-tls) — `Security` · 07.21
+- [border·outline·box-shadow, 셋 중 무엇을 쓸까](https://www.deep-log.com/development/web/css/visual/border-outline-box-shadow) — `CSS` · 07.17
+- [둥글게 준 outline이 구형 모바일에서 각집니다](https://www.deep-log.com/development/web/css/visual/outline-border-radius-old-mobile) — `CSS` · 07.17
+- [브라우저를 흉내내는 봇 — TLS 지문으로는 못 막습니다](https://www.deep-log.com/development/web/security/browser-impersonating-bot-defense) — `Security` · 07.17
+- [TLS 핸드셰이크와 지문 — JA3·JA4는 어떻게 브라우저를 식별하는가](https://www.deep-log.com/development/web/security/tls-handshake-and-fingerprinting) — `Security` · 07.17
 <!-- LATEST:END -->
 
 <br>
