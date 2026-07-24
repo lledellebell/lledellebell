@@ -28,11 +28,11 @@
 <p align="center"><sub>from <a href="https://www.deep-log.com">deep·log</a> — auto-updated on each publish</sub></p>
 
 <!-- LATEST:START -->
+- [크리티컬 CSS를 인라인하니 다크모드에 흰 배경이 번쩍였다](https://www.deep-log.com/development/web/performance/critical-css-inline-render-blocking) — `Best Practices` · 07.24
+- [샘플레이트는 1%인데 코드는 100% 받는다](https://www.deep-log.com/development/web/performance/sample-rate-is-not-load-rate) — `Best Practices` · 07.24
 - [TLS 입문 — HTTPS의 자물쇠는 무엇을 지키나](https://www.deep-log.com/development/web/security/what-is-tls) — `Security` · 07.21
 - [border·outline·box-shadow, 셋 중 무엇을 쓸까](https://www.deep-log.com/development/web/css/visual/border-outline-box-shadow) — `CSS` · 07.17
 - [둥글게 준 outline이 구형 모바일에서 각집니다](https://www.deep-log.com/development/web/css/visual/outline-border-radius-old-mobile) — `CSS` · 07.17
-- [브라우저를 흉내내는 봇 — TLS 지문으로는 못 막습니다](https://www.deep-log.com/development/web/security/browser-impersonating-bot-defense) — `Security` · 07.17
-- [TLS 핸드셰이크와 지문 — JA3·JA4는 어떻게 브라우저를 식별하는가](https://www.deep-log.com/development/web/security/tls-handshake-and-fingerprinting) — `Security` · 07.17
 <!-- LATEST:END -->
 
 <br>
