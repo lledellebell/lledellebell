@@ -28,11 +28,11 @@
 <p align="center"><sub>from <a href="https://www.deep-log.com">deep·log</a> — auto-updated on each publish</sub></p>
 
 <!-- LATEST:START -->
+- [온톨로지를 FAIR하게 공개하기 — Garijo & Poveda-Villalón (2020)](https://www.deep-log.com/series/ontology/fair-vocabularies-ontologies) — `AI/ML` · 08.04
+- [온톨로지 설계 5원칙 — Gruber (1995)](https://www.deep-log.com/series/ontology/gruber-design-principles) — `AI/ML` · 08.04
+- [모델에서 지식으로 — AI 시대에 온톨로지가 다시 주목받는 이유](https://www.deep-log.com/series/ontology/model-to-knowledge) — `AI/ML` · 08.04
 - [AI가 코드를 다 짜주는 시대, 사람에게 남는 일](https://www.deep-log.com/insights/society/ai-coding-what-remains-for-developers) — `Society` · 07.25
 - [크리티컬 CSS를 인라인하니 다크모드에 흰 배경이 번쩍였다](https://www.deep-log.com/development/web/performance/critical-css-inline-render-blocking) — `Best Practices` · 07.24
-- [샘플레이트는 1%인데 코드는 100% 받는다](https://www.deep-log.com/development/web/performance/sample-rate-is-not-load-rate) — `Best Practices` · 07.24
-- [TLS 입문 — HTTPS의 자물쇠는 무엇을 지키나](https://www.deep-log.com/development/web/security/what-is-tls) — `Security` · 07.21
-- [border·outline·box-shadow, 셋 중 무엇을 쓸까](https://www.deep-log.com/development/web/css/visual/border-outline-box-shadow) — `CSS` · 07.17
 <!-- LATEST:END -->
 
 <br>
