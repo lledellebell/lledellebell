@@ -28,11 +28,11 @@
 <p align="center"><sub>from <a href="https://www.deep-log.com">deep·log</a> — auto-updated on each publish</sub></p>
 
 <!-- LATEST:START -->
+- [trim과 정규식 트림 — 차이는 읽는 범위에서 난다](https://www.deep-log.com/languages/javascript/standard-built-in-objects/string-trim-vs-regex) — `JavaScript` · 09.17
 - [React Router 라우팅 — URL은 파일이 아니라 라우트 트리의 가지로 풀린다](https://www.deep-log.com/series/react-router/routing) — `React` · 09.16
 - [훌륭한 스킬 작성법 — The Missing Manual (Matt Pocock 강연 기록)](https://www.deep-log.com/ai-ml/techniques/writing-great-skills) — `AI/ML` · 08.28
 - [Few-shot 예시 — 큰 모델일수록 예시를 잘 활용한다](https://www.deep-log.com/ai-ml/techniques/few-shot-examples) — `AI/ML` · 08.15
 - [인컨텍스트 러닝 — 가중치를 바꾸지 않는 학습](https://www.deep-log.com/ai-ml/techniques/in-context-learning) — `AI/ML` · 08.15
-- [온톨로지를 FAIR하게 공개하기 — Garijo & Poveda-Villalón (2020)](https://www.deep-log.com/series/ontology/fair-vocabularies-ontologies) — `AI/ML` · 08.04
 <!-- LATEST:END -->
 
 <br>
