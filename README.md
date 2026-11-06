@@ -28,11 +28,11 @@
 <p align="center"><sub>from <a href="https://www.deep-log.com">deep·log</a> — auto-updated on each publish</sub></p>
 
 <!-- LATEST:START -->
+- [같은 96자를 넣었는데, AV의 간격은 달랐다](https://www.deep-log.com/development/web/css/performance/font-subset-bracket-layout) — `Web Development` · 11.05
 - [Section 1-1 — 인공지능은 어떻게 학습하고 판단하는가](https://www.deep-log.com/development/certifications/aws-ai-practitioner/section-1/artificial-intelligence-introduction) — `Certification` · 10.23
 - [Section 2-1 — 웹 서비스는 어떻게 연결되고 왜 클라우드가 필요한가](https://www.deep-log.com/development/certifications/aws-ai-practitioner/section-2/aws-and-cloud-computing) — `Certification` · 10.23
 - [프리페치를 켰는데 클릭 때 다시 받았다 — 946ms를 쪼개 본 기록](https://www.deep-log.com/development/web/performance/prefetch-reuse-and-cdn-age) — `Best Practices` · 10.16
 - [PDF용 2단 레이아웃이 깨져도 렌더링은 성공했다](https://www.deep-log.com/development/tools/ai-document-pipeline-pdf-pptx) — `Tools` · 09.21
-- [trim과 정규식 트림 — 차이는 읽는 범위에서 난다](https://www.deep-log.com/languages/javascript/standard-built-in-objects/string-trim-vs-regex) — `JavaScript` · 09.17
 <!-- LATEST:END -->
 
 <br>
